@@ -4,13 +4,17 @@
 
 ### Homepage
 a list of the countries
+<br>
 <img src="https://user-images.githubusercontent.com/68542177/101987430-598a6300-3c94-11eb-978b-a63345de20cd.png" />
 
-### General information 
+### About
+general information about the country
+<br>
 <img src="https://user-images.githubusercontent.com/68542177/101987502-b38b2880-3c94-11eb-8360-ee5c0cbc3bea.png" />
 
 ### History
 Some famous events that happened in the country
+<br>
 <img src="https://user-images.githubusercontent.com/68542177/101987504-b554ec00-3c94-11eb-9d97-53a5b165033b.png"/>
 
 ### Images
